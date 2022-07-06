@@ -37,9 +37,5 @@
 
 ###
 
-<br clear="both">
 
-<img href="https://raw.githubusercontent.com/Tadeuvelloso/Tadeuvelloso/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
