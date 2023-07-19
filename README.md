@@ -65,9 +65,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-![snake gif](https://github.com/Tadeuvelloso/Tadeuvelloso/blob/output/github-contribution-grid-snake.svg)
-
-###
