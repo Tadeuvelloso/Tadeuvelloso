@@ -55,3 +55,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tadeuvelloso&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Tadeuvelloso&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tadeuvelloso&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</div>
