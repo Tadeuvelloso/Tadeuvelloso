@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
+<a href="https://www.linkedin.com/in/dev-tadeuvelloso">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
@@ -77,7 +77,7 @@
 
 <p>Estou aberto a novas oportunidades. Sinta-se à vontade para entrar em contato!</p>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
+<a href="https://www.linkedin.com/in/dev-tadeuvelloso">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
