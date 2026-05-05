@@ -68,3 +68,25 @@
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tadeuvelloso&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
+
+---
+
+## 📬 Vamos conversar?
+
+<div align="center">
+
+<p>Estou aberto a novas oportunidades. Sinta-se à vontade para entrar em contato!</p>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:tadeuvellososilva@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+<sub>📍 Florianópolis, Brasil 🇧🇷 · Disponível para trabalho remoto</sub>
+
+</div>
